@@ -6,7 +6,7 @@ Laravel Nova array items field with sorting, validation & many [display options]
 
 ### Installation
 ```
-composer require blendbyte/nova-items-field
+composer require welzh/nova-items-field
 ```
 
 ### Usage

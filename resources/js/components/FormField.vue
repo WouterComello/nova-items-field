@@ -101,7 +101,7 @@ export default {
         },
 
 		addItem() {
-            const item = this.newItem.trim();
+            const item = this.newItem;
 			if (item && ! this.maxReached) {
 				this.items.push(item)
                 this.newItem = ''
